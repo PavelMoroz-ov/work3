@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Add_new_counter">Добавит новые показания</string>
-    <string name="Prev_counter">Преведущие показания</string>
-    <string name="New_counter">Введите новые показания</string>
-    <string name="New_tarif">Введите тариф</string>
-    <string name="Rashod">Расход:</string>
+    <string name="Add_new_counter">Добавить нове продажи</string>
+    <string name="Prev_counter">Количество предыдуших продаж </string>
+    <string name="New_counter">Количестно новых породаж на:</string>
+    <string name="New_tarif">Выручка</string>
+    <string name="Rashod">Выручка:</string>
     <string name="Rub">Руб.</string>
     <string name="Save">Сохранить</string>
     <string name="Cancel">Отмена</string>
